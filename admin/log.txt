@@ -1,0 +1,176 @@
+Failed at SESSION check
+DATA: Array
+(
+    [feedback_id] => 3
+    [subject] => Regarding Your Feedback
+    [message] => now its fine
+    [sent_at] => 2025-05-12T23:24:36.407Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => nice service 
+    [rating] => 5
+    [stars] => ★★★★★
+)
+DB ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sent_by' in 'field list'
+DATA: Array
+(
+    [feedback_id] => 4
+    [subject] => Regarding Your Feedback
+    [message] => nice to have reivew
+    [sent_at] => 2025-05-12T23:27:46.485Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 2
+    [subject] => Regarding Your Feedback
+    [message] => pls send now 
+
+    [sent_at] => 2025-05-12T23:30:48.437Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good but need improvement
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 2
+    [subject] => Regarding Your Feedback
+    [message] => testing
+    [sent_at] => 2025-05-12T23:32:23.164Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good but need improvement
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 2
+    [subject] => Regarding Your Feedback
+    [message] => last testing of the day 
+    [sent_at] => 2025-05-12T23:34:22.278Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good but need improvement
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 4
+    [subject] => Regarding Your Feedback
+    [message] => hii bro
+    [sent_at] => 2025-05-12T23:42:40.900Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 4
+    [subject] => Regarding Your Feedback
+    [message] => hii
+    [sent_at] => 2025-05-12T23:45:19.830Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 4
+    [subject] => Regarding Your Feedback
+    [message] => hii 2
+    [sent_at] => 2025-05-12T23:50:11.425Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [rating] => 4
+)
+DATA: Array
+(
+    [feedback_id] => 2
+    [subject] => Regarding Your Feedback
+    [message] => 22 testing 
+    [sent_at] => 2025-05-12T23:52:24.772Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [rating] => 4
+)
+DATA: Array
+(
+    [feedback_id] => 3
+    [subject] => Regarding Your Feedback
+    [message] => another
+    [sent_at] => 2025-05-12T23:53:25.453Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => nice service 
+    [rating] => 5
+    [stars] => ★★★★★
+)
+DATA: Array
+(
+    [feedback_id] => 4
+    [subject] => Regarding Your Feedback
+    [message] => not now
+    [sent_at] => 2025-05-12T23:55:32.115Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+    [from_name] => Your Company Name
+    [from_email] => noreply@yourcompany.com
+    [original_feedback] => good
+    [rating] => 4
+    [stars] => ★★★★☆
+)
+DATA: Array
+(
+    [feedback_id] => 3
+    [subject] => Regarding Your Feedback
+    [message] => ok sir
+    [sent_at] => 2025-05-13T00:12:22.936Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+)
+DATA: Array
+(
+    [feedback_id] => 3
+    [subject] => Regarding Your Feedback
+    [message] => last test
+    [sent_at] => 2025-05-13T00:15:51.348Z
+    [to_name] => Mahesh
+    [to_email] => maheshhegde332@gmail.com
+)
+DATA: Array
+(
+    [feedback_id] => 6
+    [subject] => Regarding Your Feedback
+    [message] => thanks
+    [sent_at] => 2025-05-14T08:57:13.298Z
+    [to_name] => Manjunath
+    [to_email] => hegdem420@gmail.com
+)
